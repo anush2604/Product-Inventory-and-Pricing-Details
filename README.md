@@ -4,7 +4,12 @@ Product Catlog and Inventory Summary
 
 ## Description
 
-A product table holds product_id, product_name, Brand_name, Price, Quantity and Category.
+A product table holds product_id, product_name, Brand_name, Price, Quantity and Category. It perfoms basic aggregation function, text formatting and contional formatting in Excel.
+1) sum(), Count() and average()
+2) min() and max()
+3) Logical Function - IF
+4) Conditional Functions - sumif() and countif()
+5) Text Formatting - Left(), right() and mid()
 
 ## Getting Started
 
