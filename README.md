@@ -19,7 +19,7 @@ Excel
 
 ### Executing program
 
-Basic excel form
+Basic excel formula
 
 ## Help
 
