@@ -1,4 +1,4 @@
-# Project Title
+# Assignment1_Data Exploration
 
 Product Catlog and Inventory Summary
 
