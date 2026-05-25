@@ -1,6 +1,5 @@
-# Assignment1_Data Exploration
-
-Product Catlog and Inventory Summary
+# Assignment1_Product Catlog and Inventory Summary
+This project focuses on basic aggregation function, text formatting and contional formatting in a product dataset.
 
 ## Description
 
